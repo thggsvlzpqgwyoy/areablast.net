@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://areablast.net/</loc>
+    <lastmod>2025-12-16T12:45:10.980Z</lastmod>
+    <priority>1.0</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://areablast.net/"/>
+    <xhtml:link rel="alternate" hreflang="en-CA" href="https://areablast.net/"/>
+  </url>
+  <url>
+    <loc>https://areablast.net/terms/</loc>
+    <lastmod>2025-12-16T12:45:10.980Z</lastmod>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://areablast.net/terms/"/>
+    <xhtml:link rel="alternate" hreflang="en-CA" href="https://areablast.net/terms/"/>
+  </url>
+  <url>
+    <loc>https://areablast.net/review/</loc>
+    <lastmod>2025-12-16T12:45:10.980Z</lastmod>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://areablast.net/review/"/>
+    <xhtml:link rel="alternate" hreflang="en-CA" href="https://areablast.net/review/"/>
+  </url>
+  <url>
+    <loc>https://areablast.net/responsible/</loc>
+    <lastmod>2025-12-16T12:45:10.980Z</lastmod>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://areablast.net/responsible/"/>
+    <xhtml:link rel="alternate" hreflang="en-CA" href="https://areablast.net/responsible/"/>
+  </url>
+  <url>
+    <loc>https://areablast.net/privacy/</loc>
+    <lastmod>2025-12-16T12:45:10.980Z</lastmod>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://areablast.net/privacy/"/>
+    <xhtml:link rel="alternate" hreflang="en-CA" href="https://areablast.net/privacy/"/>
+  </url>
+  <url>
+    <loc>https://areablast.net/free/</loc>
+    <lastmod>2025-12-16T12:45:10.980Z</lastmod>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://areablast.net/free/"/>
+    <xhtml:link rel="alternate" hreflang="en-CA" href="https://areablast.net/free/"/>
+  </url>
+  <url>
+    <loc>https://areablast.net/demo/</loc>
+    <lastmod>2025-12-16T12:45:10.980Z</lastmod>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://areablast.net/demo/"/>
+    <xhtml:link rel="alternate" hreflang="en-CA" href="https://areablast.net/demo/"/>
+  </url>
+  <url>
+    <loc>https://areablast.net/cookie/</loc>
+    <lastmod>2025-12-16T12:45:10.980Z</lastmod>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://areablast.net/cookie/"/>
+    <xhtml:link rel="alternate" hreflang="en-CA" href="https://areablast.net/cookie/"/>
+  </url>
+  <url>
+    <loc>https://areablast.net/about/</loc>
+    <lastmod>2025-12-16T12:45:10.980Z</lastmod>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://areablast.net/about/"/>
+    <xhtml:link rel="alternate" hreflang="en-CA" href="https://areablast.net/about/"/>
+  </url>
+</urlset>

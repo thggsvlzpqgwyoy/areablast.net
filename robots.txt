@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://areablast.net/sitemap.xml
